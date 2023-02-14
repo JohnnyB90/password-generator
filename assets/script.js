@@ -34,7 +34,7 @@ function generatePassword() {
   const uppercase = "Would you like to use Uppercase?";
   const lowercase = "Would you like to use Lowercase?";
   const numbers = "Would you like to use numbers?";
-  const special = "Would you like to use special characters?const
+  const special = "Would you like to use special characters?";
 // Confirmations to see what characters the users would like in their passwords.
   const answers = {};
   if (confirmed === true) {
